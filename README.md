@@ -2,7 +2,7 @@
 This python script automates the process of generating multiple certificates for a given list of people from a template image file. To explain it in a better way, say you need to provide digital certificates for any purpose, so you create a template for a certificate, this script will take care of the generation of certificate for different people using txt file as an input of names
 
 Requirements:
-1. Python
+1. Python 3+
 2. OpenCV (you can google how to install opencv for python environment)
 3. A template certificate image
 

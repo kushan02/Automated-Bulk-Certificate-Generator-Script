@@ -1,0 +1,2 @@
+# Automated-Certificate-Generator-Script
+This script automates the process of generating multiple certificates for a given list of people from a template image file. To explain it in a better way, say you need to provide digital certificates for any purpose, so you create a template for a certificate, this script will take care of the generation of certificate for different people using txt file as an input of names
